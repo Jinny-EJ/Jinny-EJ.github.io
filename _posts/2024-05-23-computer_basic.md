@@ -24,10 +24,11 @@ categories: Computer_Basic
 
 ### 1. CPU
 메모리에 저장된 명령어를 읽어들이고 해석하고, 실행하는 부품.
-- ALU : 계산기 (산술연산)
-- Register : CPU 내부의 작은 저장장치.
-- Control Unit, CU (제어장치): 제어신호를 보내고, 명령어를 해석하는 장치.
+- **ALU** : 계산기 (산술연산)
+- **Register** : CPU 내부의 작은 저장장치.
+- **Control Unit, CU (제어장치)** : 제어신호를 보내고, 명령어를 해석하는 장치.
 
+<link>
 
 ### 2. System bus   
 컴퓨터의 부품까지 정보를 주고 받는 일종의 통로.
