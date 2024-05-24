@@ -2,6 +2,7 @@
 layout: single
 title: "Basic_ 컴퓨터 구조 _ Computer Architecture"
 categories: Computer_Basic
+published : false
 ---
 
 ## 컴퓨터 기초 
